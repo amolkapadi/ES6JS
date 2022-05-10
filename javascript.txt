@@ -1,0 +1,138 @@
+*******************************
+          JAVASCRIPT   
+*******************************
+1.Introduction 
+- Javascript is web based scripting Language.
+- web scripting Language type :- 1) Client-side scripting 2)Server-side scripting 
+- Javascript is a Event Based Programming Language.
+- Example Event  :- Click,Right Click, Mouse hover, Key press,load,Resize ..etc....etc
+- Js is used to create client-side dynamic Pages.
+- Javascript is a case-sensitive Language.
+
+Fetures  
+- All popular web Browsers support Javascript.
+- Javascript is an Object-orinted Programming Language.
+- Javascript follows the syntax and structure of the C Programming Language. 
+- Javascript support Operating System including,windows,macOs,Linux etc.
+
+What are the uses of JavaScript?
+- Web Applications.
+- Web Development.
+- Mobile Applications.
+- Client-side validation.
+- Displaying date and time.
+- To display dialog boxes and pop-up windows.
+- To validate the user input before submission of the form.
+- Dropdown Menu, Animated Slider, Maps, Calendar.
+
+Main Benifit :-
+Javascript -> React Js -> Node Js
+
+
+2.Javascript Implementation
+- Inpage Javascript
+- External Javascript
+
+3.Javascript Variable :->
+  JS variable is simply a name of storage location.
+- var 
+- let 
+- const
+
+4.Javascript Variable :->
+  JS variable is simply a name of storage location.
+- var 
+- let 
+- const
+
+5. Javascript HTML Tags :->
+
+6. Data Type :->
+- String
+- Number
+- Boolean
+- Array
+- Object
+- Null 
+- Undefined
+
+7.Arthimatic operation:->
+- Addition   +
+- subtraction -
+- multiplication * 
+- division  / 
+- exponentiation  **
+- Incerement
+- Decrement
+
+8.comparison operater: ->
+- Equal to ==
+- Equal value or Equal Data Type ===
+- Not Equal !=   true->false  ,false->true
+- Equal value or Equal Data Type !== 
+- Greater than >
+- Less than <
+- Greater than or Equal to
+- Less than or Equal to
+
+9.Assignment operater :->
+- Equal =
+- Addition   +=
+- subtraction -=
+- multiplication *=
+- division  /= 
+- exponentiation  **=
+- modulues %=
+
+10.Javascript Google Chromo Console :->
+- In Javascript ,the console is an object which provides
+access the Browsers debugging console.
+
+
+11.JavaSCript Statement
+- JavaScript statement is used to execute the code whether 
+condition is true or false.
+- Type of statement :->
+	-If Statement
+	-If..else Statement
+	-If..else..If Statement
+	-Switch Statement
+
+
+12.Javascript Logical operators :- 
+- && logical AND  :-
+run only when both condition must be true.
+- || Logical OR -pi symbol :- 
+run only when both condition must be true.
+- ! Logical NOT -explanation marks :-
+ true->false  ,false->true
+
+
+
+
+
+
+
+
+
+
+
+Dom Targeting Method : -
+1)Id :          getElementById();
+2)Class Name :  getElementByClassName();
+3)Tag Name  :   getElementByTagName();
+
+other method : 
+document
+document.all
+document.head
+document.body
+document.title
+document.image
+document.anchar
+document.links
+document.forms
+document.doctype
+document.URL
+document.BaseURL
+document.domain

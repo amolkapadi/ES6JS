@@ -1,0 +1,45 @@
+
+1.Template literals (Template strings) :-
+-ES6 version 2015
+- It provides an easy way to create multiline strings
+-The ${} syntax allows us to put an expression in it and 
+it will produce the value.
+-Template Literals use back-ticks symbol (``) 
+
+
+2. Arrow Function (Fat arrow Function) :-
+-Arrow functions are introduced in ES6
+-It's provide a more accurate way to write the functions in JavaScript.
+-They allow us to write smaller function syntax. 
+-Fat arrow notation/lambda notation: It is the notation for the arrow (=>).
+
+3.Rest Parameter :-
+- used in function with multiple parameter
+- The rest parameter is introduced in ECMAScript 2015 or ES6
+- which improves the ability to handle parameters.
+- The rest parameter syntax allows a function to accept an indefinite number of arguments as an array
+- Arguments is an Array -like object accessible inside functions that contains the 
+values of the arguments passed to that function.
+- The rest parameter allows us to represent an indefinite 
+number of arguments as an array
+- The rest parameter is show with three dots (...)
+
+4.Spread Operator
+-introduced a new operator referred to as a spread operator, 
+which consists of three dots (...)
+-Spread operator syntax is similar to the rest parameter,
+-The spread operator is commonly used to make copies of JS objects
+
+5. Array destructuring :- 
+-  Array destructuring introduced in ES6.
+- Destructuring means to break down a complex structure into simpler parts.
+- It can be used for assignments and declaration of a variable.
+- Destructuring is an efficient way to extract multiple values from 
+  data that is stored in arrays .
+- When destructuring an array, we use their positions (or index) in an assignment.
+
+6.Object destructuring :-
+- It is similar to array destructuring.
+- When destructuring the objects, we use keys as the name of the variable.
+- The variable name must match the property (or keys) name of the object.
+- If it does not match, then it receives an undefined value. 
